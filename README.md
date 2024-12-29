@@ -18,13 +18,6 @@ Bu proje, Turner sendromu gibi kromozomal anormalliklerin tespiti için derin ö
 - **Pillow**: Sentetik görüntü oluşturma.
 - **Scikit-learn**: Performans değerlendirmesi ve metriğ hesaplama.
 
-## Proje Yapısı
-
-- `data/`: Sentetik veri setinin bulunduğu dizin.
-- `models/`: Kaydedilen model ağırlıkları.
-- `notebooks/`: Projeyi eğitmek ve değerlendirmek için kullanılan Jupyter Notebook dosyaları.
-- `README.md`: Proje hakkında bilgiler.
-
 ## Veri Seti
 
 Bu projede sentetik olarak XX, XY ve X0 kromozom görüntüleri oluşturulmuştur. Her bir sınıf için 300 adet görüntü üretilmiş ve veri seti çeşitlilik için veri artırma teknikleriyle desteklenmiştir.
